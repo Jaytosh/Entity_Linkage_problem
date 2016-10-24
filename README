@@ -1,0 +1,3 @@
+just run match.py
+Kept it very simple. Did not use any complex logic as my experience from doing projects in NLP reminds me sometimes simple logic is better then comvoluted techniques which can overfit the data.
+Could not run on linux as my laptop overheats.
